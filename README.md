@@ -1,7 +1,7 @@
 # windfall-lotto.eth
 A decentralized on-chain lottery with community participation and a transparent host operator role.
 
-# Players
+## Players
 🎉 Winning Tiers & Jackpot Distribution
 🔢 03 numbers → 🪙 5% of jackpot
 🔢 04 numbers → 💰 20% of jackpot
@@ -11,7 +11,7 @@ A decentralized on-chain lottery with community participation and a transparent 
 ✅ Winning is based on the longest consecutive streak in the correct positions.
 ❌ Scattered matches do not count as a streak.
 
-# Tickets
+## Tickets
 🎟️ Windfall Lotto NFT Royalty Bonus — 10% Fee Sharing
 In Windfall Lotto, your NFT ticket is more than just a ticket.
 When a ticket wins and that NFT was resold or transferred, the original ticket minter can receive 10% of the winning ticket payout as a royalty-style fee share.
@@ -24,7 +24,7 @@ When a ticket wins and that NFT was resold or transferred, the original ticket m
 🔥 This creates a new layer of value for early ticket minters: You can play, collect, trade, and potentially benefit later if a ticket you minted becomes a winner after resale.
 🎲 Players win. Collectors can trade. Original minters may still share upside.
 
-# Shareholders
+## Shareholders
 🎟️🤝 It's a collaborative lottery.
 Up to 200 persons can be shareholders 👥.
 Every shareholder gets a share from the 10% ticket purchase 💰.
@@ -32,13 +32,13 @@ The ticket is an NFT that can be sold 📈, earning 10% of the winnings if any �
 Therefore, the best profile for a shareholder is a person who can sell tickets 🗣️.
 Early shareholders can start with $1,000 for a year 💵, but the entry fee increases by 10x every 35 shareholders 📈.
 It is based on DAI to avoid volatility and contract freezes 🛡️.
-*💵 Contribution & Flexibility*
+### *💵 Contribution & Flexibility*
 The minimum donation is $1,000 per year.
 You can choose the number of years you wish to participate by contributing more.
-*🎰 Jackpot Growth & Entry*
+### *🎰 Jackpot Growth & Entry*
 As the jackpot grows, players join in 🎰.
 Each new entry makes the jackpot explode 💥💰.
-*📈 Shareholder Benefits*
+### *📈 Shareholder Benefits*
 As a shareholder who contributed to the jackpot growth 🎰,
 You receive your share of the profits 💼💸.
 
