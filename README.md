@@ -1,6 +1,22 @@
 # windfall-lotto.eth
 A decentralized on-chain lottery with community participation and a transparent host operator role.
 
+## The idea
+Everyone can be a proxy reseller of tickets, with the added advantage of winning numbers.
+Many players worldwide use proxies like welovelotto, Lottoland, or TheLotter to access lotteries in other countries.
+What if this became the world’s biggest lottery?
+For a 3‑streak (3 consecutive positions correct) with numbers 0–99 (duplicates allowed),
+P = 3(1/100)^3 - 2(1/100)^4 ≈ 2.98×10^-6 — about 0.000298%
+That’s about 0.000298% (~1 in 335,570).
+~335,570 sold tickets equal a 100% chance of getting 10% extra.
+If the jackpot grows, this could become an unstoppable decentralized lottery.
+
+## Contributions
+Maybe you are interested in testing your skills and proving that you can make a project become known.
+Every contribution is welcome.
+We are sure that every project needs real-time investors who believe in the idea, not unknown persons who will only move if they get paid.
+If you still have the flame and want to be part of a potentially big future project, join us and let’s pump this together.
+
 ## Players
 🎉 Winning Tiers & Jackpot Distribution
 🔢 03 numbers → 🪙 5% of jackpot
